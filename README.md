@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hieutbui&label=Profile%20views&color=0e75b6&style=flat" alt="hieutbui" /> </p>
-
 - 🔭 I’m currently working on [tmail-flutter](https://github.com/linagora/tmail-flutter)
 
 - 💬 Ask me about **React Native, Flutter**
