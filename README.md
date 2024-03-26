@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on [tmail-flutter](https://github.com/linagora/tmail-flutter)
+- 🔭 I’m currently working on [tmail-flutter](https://github.com/linagora/tmail-flutter) and [twake-on-matrix](https://github.com/linagora/twake-on-matrix)
 
 - 💬 Ask me about **React Native, Flutter**
 
