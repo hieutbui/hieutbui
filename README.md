@@ -1,4 +1,3 @@
-![Linkedin Banner](https://github.com/hieutbui/hieutbui/assets/80142234/f16c6735-0e2b-451c-8a88-5a0783a28e52)
 <h1 align="center">Hi 👋, I'm Hieu Bui</h1>
 <h3 align="center">A mobile developer</h3>
 
