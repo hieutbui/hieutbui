@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hieu Bui</h1>
-<h3 align="center">A mobile developer</h3>
+<h3 align="center">A system architect</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 💬 Ask me about **mobile development**
+- 💬 Ask me about **system architect**
 
 - 📫 How to reach me **trunghieu.bui201@gmail.com**
 
